@@ -1,0 +1,10 @@
+{
+  "name": "infrastructure-level-200-assets",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local Terraform repo pack for Level 200 agentic Copilot infrastructure training",
+  "scripts": {
+    "repo:summary": "node scripts/repo-summary.js",
+    "validate:commands": "node scripts/validation-commands.js"
+  }
+}
